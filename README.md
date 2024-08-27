@@ -1,6 +1,6 @@
 # Encriptador de Texto Alura
 
-## ¿De qué se trata el proyecto?
+## ¿De qué se trata el proyecto educativo?
 El Encriptador de Texto Alura es una herramienta web sencilla que permite encriptar y desencriptar mensajes de texto utilizando un cifrado básico. Este proyecto fue desarrollado como parte de los desafíos del programa Alura Latam, enfocado en enseñar los fundamentos de programación y desarrollo web. Los usuarios pueden transformar sus mensajes en un texto cifrado para mantener la privacidad y luego descifrarlo cuando sea necesario.
 
 ## ¿Por qué el proyecto es útil?
